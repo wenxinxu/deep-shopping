@@ -1,4 +1,4 @@
-# deep-shopping: Content-based Clothing Image Retrieval Using Deep Features
+# Deep-Shopping: Content-based Clothing Image Retrieval Using Deep Features
 
 Full blog post: [click here](https://wenxinxublog.wordpress.com/2017/01/06/deep-shopping/)
 
