@@ -30,7 +30,7 @@ tf.app.flags.DEFINE_boolean('continue_train_ckpt', False, '''Whether to continue
 checkpoint''')
 
 ## Hyper-parameters about the model
-tf.app.flags.DEFINE_integer('num_residual_blocks', 5, '''number of residual blocks in ResNet''')
+tf.app.flags.DEFINE_integer('num_residual_blocks', 2, '''number of residual blocks in ResNet''')
 tf.app.flags.DEFINE_boolean('is_localization', True, '''Add localization task or not''')
 
 
